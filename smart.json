@@ -1,0 +1,8 @@
+{
+    "name": "accounts-multi",
+    "description": "Allows a user to login with multiple services.",
+    "homepage": "https://github.com/timbroddin/meteor-accounts-multi",
+    "author": "Tim Broddin",
+    "version": "0.1.0",
+    "git": "https://github.com/timbroddin/meteor-accounts-multi.git"
+}
